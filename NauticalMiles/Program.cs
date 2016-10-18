@@ -28,6 +28,8 @@ namespace NauticalMiles
 
             Console.WriteLine("Please enter the latitudes in degrees of the two places you want to calculate the distance between");
 
+            // Multiplication by 3.14/180 is to convert from degrees into radians
+
             L1 = Convert.ToDouble(Console.ReadLine()) * 3.14 / 180;
             L2 = Convert.ToDouble(Console.ReadLine()) * 3.14 / 180;
 
