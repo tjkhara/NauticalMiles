@@ -1,0 +1,5 @@
+C:\Users\Tajeshwar Khara\Desktop\www\Visual Studio\NauticalMiles\NauticalMiles\bin\Debug\NauticalMiles.exe.config
+C:\Users\Tajeshwar Khara\Desktop\www\Visual Studio\NauticalMiles\NauticalMiles\bin\Debug\NauticalMiles.exe
+C:\Users\Tajeshwar Khara\Desktop\www\Visual Studio\NauticalMiles\NauticalMiles\bin\Debug\NauticalMiles.pdb
+C:\Users\Tajeshwar Khara\Desktop\www\Visual Studio\NauticalMiles\NauticalMiles\obj\Debug\NauticalMiles.exe
+C:\Users\Tajeshwar Khara\Desktop\www\Visual Studio\NauticalMiles\NauticalMiles\obj\Debug\NauticalMiles.pdb
